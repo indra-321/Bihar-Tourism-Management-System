@@ -16,7 +16,7 @@ The main objective of this project is to create an application that automates an
 
 - java
 - MySQL
-- 
+  
 ## 📚 Features
 
 - **Customer Management:**
