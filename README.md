@@ -1,6 +1,27 @@
-# Bihar-Tourism-Management-System
-The main objective of the Tourism Management System is to manage the details of Customer, Hotel
-Booking, Cancellation and Tourism places. It manages all the information about Users, Hotel,
-Packages etc. The project is totally built at administrative end and thus only the administrator is
-guaranteed the access to the backend database. The purpose of this project is to build an application
-program to reduce the manual work for managing Tourists, Booking, Places etc.
+Bihar Tourism Management System 🌍
+The Bihar Tourism Management System is designed to efficiently handle customer information, hotel bookings, cancellations, and details about tourism places. The primary focus is on simplifying administrative tasks related to managing users, hotels, packages, and more. The project ensures that only administrators have access to the backend database, enhancing security.
+
+🎯 Objective
+The main objective of this project is to create an application that automates and streamlines the management of tourists, booking processes, and tourism-related information. By leveraging technology, the system aims to significantly reduce manual work associated with these tasks.
+
+🛠️ Tools Used
+Frontend:
+
+HTML
+CSS
+JavaScript
+Backend:
+
+Python with Flask
+📚 Features
+Customer Management:
+
+Efficiently handle customer details.
+Hotel Booking and Cancellation:
+
+Streamline the hotel booking and cancellation processes.
+Tourism Places:
+
+Manage information about various tourism places.
+🚀 Getting Started
+To run the Bihar Tourism Management System locally, follow these steps:
